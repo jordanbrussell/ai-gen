@@ -6,13 +6,7 @@ AI-Generated Images using Tensorflow Keras & PyTorch
 
 ## Keras DCGAN 
 
-BAYC
-
 ![image](https://user-images.githubusercontent.com/104868606/193228262-9c26d563-d69a-4906-a551-f6127317c738.png)
-
-Apollo
-
-![image](https://user-images.githubusercontent.com/114745325/195262965-77c1da19-f821-4037-9895-e0c534bf4a52.png)
 ![image](https://user-images.githubusercontent.com/114745325/195263106-d7135088-85c6-4627-9f10-1d3ed946a9fd.png)
 
 
