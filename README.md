@@ -25,6 +25,4 @@ Keras DCGAN BAYC
 PyTorch Neural Style Transfer 
 
 
-![image](https://user-images.githubusercontent.com/104868606/193228694-86a2985a-1820-4ca9-bc98-52e264ce1fd4.png)
-
-
+![p10](https://user-images.githubusercontent.com/114745325/195262602-f064b488-4aec-4331-a95e-105a9f78b863.png)
