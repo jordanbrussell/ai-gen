@@ -1,5 +1,4 @@
-AI-Generated Images using Tensorflow Keras & PyTorch
-
+# AI-Generated Images using Tensorflow Keras & PyTorch
 
 ## Keras DCGAN 
 
