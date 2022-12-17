@@ -1,5 +1,9 @@
 # AI-Generated Images using Tensorflow Keras & PyTorch
 
+## Stable Diffusion: 
+
+opensea.io/jrbickelhaupt
+
 ## Keras DCGAN 
 
 https://www.tensorflow.org/tutorials/generative/dcgan
