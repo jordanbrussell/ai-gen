@@ -2,7 +2,7 @@
 
 ## Stable Diffusion: 
 
-opensea.io/jrbickelhaupt
+https://opensea.io/jrbickelhaupt
 
 ## Keras DCGAN 
 
